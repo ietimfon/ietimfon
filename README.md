@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, 👋
 
-<!--
-**ietimfon/ietimfon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ime Eti-mfon, a Data Scientist with a strong focus on Machine Learning and Deep Learning. I'm passionate about leveraging data to uncover insights and drive impactful business outcomes.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Machine Learning:** Regression, classification, clustering, model evaluation
+* **Deep Learning:** TensorFlow (familiarity), conceptual understanding of neural networks
+* **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+* **Databases:** SQL (MySQL, PostgreSQL, SQLite)
+* **Visualization:** Power BI, Excel
+* **Data Management:** Data cleaning, preprocessing, and feature engineering
+
+### Current Focus
+
+* Deepening my expertise in machine learning and AI through hands-on projects and continuous learning.
+* Applying machine learning techniques to solve real-world problems and create data-driven solutions.
+* Contributing to open-source projects and collaborating with the data science community.
+
+### Connect
+
+Let's connect and explore the potential of data science together! Feel free to reach out to discuss projects, collaborations, or anything data-related.
+
+Reach out to me on LinkedIn via: https://www.linkedin.com/in/imeetimfon/
