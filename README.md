@@ -1,3 +1,5 @@
+<img src="Github.PNG" alt="Profile Banner" width="100%">
+
 ## Hi there, I'm Ime Eti-mfon 👋
 
 I build data systems that solve real business problems.
