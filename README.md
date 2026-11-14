@@ -1,4 +1,4 @@
-<img src="Github.PNG" alt="Profile Banner" width="100%">
+<img src="Github.png" alt="Profile Banner" width="100%">
 
 ## Hi there, I'm Ime Eti-mfon 👋
 
